@@ -1,2 +1,376 @@
-# HR_Analytics
-Data Analytics project showcasing HR_Analytics using Python,SQL and Power BI.
+# HR Analytics Data Analytics Project
+
+## Overview
+
+This project is an end-to-end Data Analytics solution focused on Human Resources (HR) data. The workflow includes data loading, cleaning, exploratory data analysis (EDA), SQL-based analysis, interactive dashboard development in Power BI, report generation, and presentation creation using Gamma AI.
+
+The objective of this project is to identify workforce trends, analyze employee attrition, understand employee demographics, evaluate compensation and satisfaction factors, and provide actionable business recommendations to improve employee retention and organizational performance.
+
+---
+
+## Dataset
+
+The dataset contains employee-related information such as:
+
+* Employee Demographics
+* Department & Job Role Details
+* Education & Marital Status
+* Salary & Compensation Information
+* Job Satisfaction Metrics
+* Performance Indicators
+* Attrition Status
+* Career Growth Information
+
+### Key Features
+
+* Employee ID
+* Age
+* Gender
+* Department
+* Job Role
+* Monthly Income
+* Education Level
+* Job Satisfaction
+* Work-Life Balance
+* Years at Company
+* Years Since Last Promotion
+* Attrition
+
+---
+
+## Tools & Technologies
+
+| Tool                 | Purpose                     |
+| -------------------- | --------------------------- |
+| Python               | Data Loading, Cleaning, EDA |
+| Pandas               | Data Manipulation           |
+| NumPy                | Numerical Analysis          |
+| Matplotlib & Seaborn | Data Visualization          |
+| MySQL / SQL Server   | Data Querying & Analysis    |
+| Power BI             | Dashboard Development       |
+| Gamma AI             | Presentation Creation       |
+| MS Excel             | Data Validation & Review    |
+
+---
+
+## Project Workflow
+
+### 1. Data Loading
+
+* Imported dataset into Python.
+* Inspected data structure and column information.
+* Checked dataset dimensions and data types.
+
+### 2. Data Cleaning
+
+* Removed duplicate records.
+* Handled missing values.
+* Corrected inconsistent data entries.
+* Removed unnecessary columns.
+* Standardized column formats.
+
+### 3. Exploratory Data Analysis (EDA)
+
+Performed detailed analysis on:
+
+* Employee Attrition
+* Age Distribution
+* Gender Distribution
+* Department-wise Workforce
+* Salary Distribution
+* Job Satisfaction
+* Work-Life Balance
+* Career Growth Metrics
+
+### 4. SQL Analysis
+
+Loaded cleaned data into MySQL / SQL Server and executed SQL queries for:
+
+* Department-wise Employee Count
+* Attrition Analysis
+* Average Salary Analysis
+* Employee Segmentation
+* Job Role Performance
+* Retention Insights
+
+### 5. Power BI Dashboard Development
+
+Created an interactive HR Analytics Dashboard with multiple pages.
+
+### 6. Report Creation
+
+Prepared a detailed business report containing:
+
+* Project Objectives
+* Data Analysis Findings
+* Key Business Insights
+* Recommendations
+
+### 7. Presentation Creation
+
+Created a professional project presentation using Gamma AI showcasing:
+
+* Problem Statement
+* Methodology
+* Dashboard Screens
+* Insights
+* Recommendations
+
+---
+
+# Dashboard Pages
+
+## 1. Home Page
+
+* <img width="1320" height="742" alt="image" src="https://github.com/user-attachments/assets/c2700aaf-f7e7-407a-aa7e-72ecce4d5379" />
+
+Purpose:
+
+* Project introduction
+* Navigation hub
+* Quick project summary
+
+Contents:
+
+* Project Overview
+* Navigation Buttons
+* Dashboard Objective
+
+---
+
+## 2. HR Overview
+
+* <img width="1316" height="741" alt="image" src="https://github.com/user-attachments/assets/bc5c7d63-8bde-4896-91d9-a8fe38118a7e" />
+
+Purpose:
+
+* Overall workforce summary
+
+KPIs:
+
+* Total Employees
+* Active Employees
+* Attrition Count
+* Attrition Rate
+* Average Age
+* Average Salary
+
+Visuals:
+
+* Department Distribution
+* Gender Distribution
+* Employee Count by Job Role
+
+---
+
+## 3. Attrition Analysis
+*<img width="1320" height="743" alt="image" src="https://github.com/user-attachments/assets/2044afd2-6040-4bfd-a5f8-9d336f2749be" />
+
+Purpose:
+
+* Understand employee turnover patterns
+
+Visuals:
+
+* Attrition by Department
+* Attrition by Job Role
+* Attrition by Gender
+* Attrition by Age Group
+* Attrition by Salary Band
+
+Key Questions:
+
+* Which departments have the highest attrition?
+* Which job roles are at greater risk?
+
+---
+
+## 4. Employee Demography
+
+* <img width="1316" height="741" alt="image" src="https://github.com/user-attachments/assets/2cd86991-6862-4a44-84bc-937594c6a9a3" />
+
+Purpose:
+
+* Analyze workforce demographics
+
+Visuals:
+
+* Age Distribution
+* Gender Analysis
+* Education Analysis
+* Marital Status Analysis
+* Employee Segmentation
+
+Insights:
+
+* Workforce diversity
+* Demographic trends
+
+---
+
+## 5. Compensation & Satisfaction
+
+* <img width="1319" height="746" alt="image" src="https://github.com/user-attachments/assets/1c9d81c7-c4fa-4d0e-9b02-be2d3d5a0e00" />
+
+Purpose:
+
+* Evaluate salary and employee satisfaction
+
+Visuals:
+
+* Salary Distribution
+* Income by Department
+* Job Satisfaction Analysis
+* Environment Satisfaction
+* Work-Life Balance Ratings
+
+Insights:
+
+* Relationship between compensation and satisfaction
+* Employee engagement factors
+
+---
+
+## 6. Career Growth & Retention
+
+* <img width="1317" height="743" alt="image" src="https://github.com/user-attachments/assets/b37b7009-d8b9-4dd1-9006-359288d47390" />
+
+Purpose:
+
+* Analyze employee growth and retention trends
+
+Visuals:
+
+* Years at Company
+* Total Working Years
+* Promotion Analysis
+* Job Level Analysis
+* Years with Current Manager
+
+Insights:
+
+* Career progression patterns
+* Retention drivers
+
+---
+
+## 7. Insights & Recommendations
+
+* <img width="1314" height="740" alt="image" src="https://github.com/user-attachments/assets/7975716f-43d9-43cb-9b3f-f3ea0a0c33ef" />
+
+Purpose:
+
+* Summarize key findings and business actions
+
+Key Insights:
+
+* High-risk departments
+* High-risk job roles
+* Compensation concerns
+* Promotion-related attrition
+* Employee satisfaction trends
+
+Recommendations:
+
+* Improve retention strategies
+* Review compensation policies
+* Strengthen career development programs
+* Enhance employee engagement initiatives
+* Focus on high-risk employee groups
+
+---
+
+## Results
+
+### Key Outcomes
+
+* Identified major attrition drivers.
+* Discovered high-risk employee segments.
+* Analyzed workforce demographics and compensation trends.
+* Evaluated employee satisfaction factors.
+* Generated actionable business recommendations.
+* Built an interactive dashboard for decision-making.
+
+### Business Value
+
+* Improved workforce visibility.
+* Better retention planning.
+* Data-driven HR decision making.
+* Enhanced employee engagement strategies.
+
+---
+
+## Project Structure
+
+```text
+HR-Analytics-Project/
+│
+├── Dataset/
+│   └── HR_Analytics.csv
+│
+├── Python/
+│   ├── Data_Cleaning.ipynb
+│   ├── EDA.ipynb
+│   └── Visualizations.ipynb
+│
+├── SQL/
+│   ├── MySQL_Queries.sql
+│   └── SQLServer_Queries.sql
+│
+├── PowerBI/
+│   └── HR_Analytics_Dashboard.pbix
+│
+├── Reports/
+│   └── HR_Analytics_Report.pdf
+│
+├── Presentation/
+│   └── HR_Analytics_Presentation.pptx
+│
+└── README.md
+```
+
+---
+
+## How to Run
+
+### Python Analysis
+
+1. Clone the repository.
+2. Install required libraries:
+
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+3. Open Jupyter Notebook.
+4. Run:
+
+   * Data_Cleaning.ipynb
+   * EDA.ipynb
+   * Visualizations.ipynb
+
+### SQL Analysis
+
+1. Create a database in MySQL or SQL Server.
+2. Import the cleaned dataset.
+3. Execute SQL scripts available in the SQL folder.
+
+### Power BI Dashboard
+
+1. Open the `.pbix` file in Power BI Desktop.
+2. Refresh data connections.
+3. Explore dashboard pages and filters.
+
+### Report & Presentation
+
+* Open the PDF report for detailed analysis.
+* View the Gamma AI presentation for project highlights.
+
+---
+
+## Author
+
+**Manish Singh**
+B.Tech (Computer Science & Engineering)
+Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
+
