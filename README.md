@@ -38,7 +38,7 @@ The dataset contains employee-related information such as:
 
 ---
 
-## 🚀 Tools & Technologies
+##  Tools & Technologies
 
 | Tool                                                                 | Purpose                     |
 | -------------------------------------------------------------------- | --------------------------- |
@@ -154,13 +154,15 @@ KPIs:
 * Attrition Count
 * Attrition Rate
 * Average Age
-* Average Salary
+* Average Salary Monthly Income
 
 Visuals:
 
-* Department Distribution
-* Gender Distribution
-* Employee Count by Job Role
+* Attrition by Department
+* Attrition by Gender
+* Attrition by Age Group
+* Employee Distribution by Department
+  
 
 ---
 
@@ -173,16 +175,10 @@ Purpose:
 
 Visuals:
 
-* Attrition by Department
 * Attrition by Job Role
-* Attrition by Gender
-* Attrition by Age Group
-* Attrition by Salary Band
-
-Key Questions:
-
-* Which departments have the highest attrition?
-* Which job roles are at greater risk?
+* Attrition by Marital Status
+* Attrition by Businesstravel
+* Attrition by Overtime
 
 ---
 
@@ -196,11 +192,10 @@ Purpose:
 
 Visuals:
 
-* Age Distribution
-* Gender Analysis
-* Education Analysis
-* Marital Status Analysis
-* Employee Segmentation
+* Age Group Distribution
+* Gender Distribution
+* Education Level Analysis
+* Education Field Analysis
 
 Insights:
 
@@ -219,8 +214,8 @@ Purpose:
 
 Visuals:
 
-* Salary Distribution
-* Income by Department
+* Income by Job Role
+* Salary Band Distribution
 * Job Satisfaction Analysis
 * Environment Satisfaction
 * Work-Life Balance Ratings
