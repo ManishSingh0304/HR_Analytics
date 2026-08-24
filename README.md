@@ -38,18 +38,19 @@ The dataset contains employee-related information such as:
 
 ---
 
-## Tools & Technologies
+## 🚀 Tools & Technologies
 
-| Tool                 | Purpose                     |
-| -------------------- | --------------------------- |
-| Python               | Data Loading, Cleaning, EDA |
-| Pandas               | Data Manipulation           |
-| NumPy                | Numerical Analysis          |
-| Matplotlib & Seaborn | Data Visualization          |
-| MySQL / SQL Server   | Data Querying & Analysis    |
-| Power BI             | Dashboard Development       |
-| Gamma AI             | Presentation Creation       |
-| MS Excel             | Data Validation & Review    |
+| Tool                                                                 | Purpose                     |
+| -------------------------------------------------------------------- | --------------------------- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Data Loading, Cleaning, EDA |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | Data Manipulation           |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) | Numerical Analysis          |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white) & ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?logo=python&logoColor=white) | Data Visualization          |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) / ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) | Data Querying & Analysis    |
+| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) | Dashboard Development       |
+| ![Gamma](https://img.shields.io/badge/Gamma%20AI-8A2BE2?logo=openai&logoColor=white) | Presentation Creation       |
+| ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?logo=microsoftexcel&logoColor=white) | Data Validation & Review    |
+
 
 ---
 
