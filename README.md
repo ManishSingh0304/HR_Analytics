@@ -141,7 +141,8 @@ Contents:
 
 ## 2. HR Overview
 
-* <img width="1322" height="749" alt="image" src="https://github.com/user-attachments/assets/4f300bc2-29dc-4321-9790-02b935d9de07" />
+* <img width="1317" height="745" alt="image" src="https://github.com/user-attachments/assets/838a09ad-0aa0-4a71-a533-8031edccdd58" />
+
 
 
 Purpose:
@@ -168,7 +169,8 @@ Visuals:
 ---
 
 ## 3. Attrition Analysis
-*<img width="1320" height="743" alt="image" src="https://github.com/user-attachments/assets/2044afd2-6040-4bfd-a5f8-9d336f2749be" />
+* <img width="1315" height="743" alt="image" src="https://github.com/user-attachments/assets/05fa1066-8cfa-40e3-93fb-ec6044e4238d" />
+
 
 Purpose:
 
@@ -185,7 +187,8 @@ Visuals:
 
 ## 4. Employee Demography
 
-* <img width="1316" height="741" alt="image" src="https://github.com/user-attachments/assets/2cd86991-6862-4a44-84bc-937594c6a9a3" />
+* <img width="1321" height="744" alt="image" src="https://github.com/user-attachments/assets/9659196e-7d63-46ab-a7e6-d1aca9d523c3" />
+
 
 Purpose:
 
@@ -207,7 +210,8 @@ Insights:
 
 ## 5. Compensation & Satisfaction
 
-* <img width="1319" height="746" alt="image" src="https://github.com/user-attachments/assets/1c9d81c7-c4fa-4d0e-9b02-be2d3d5a0e00" />
+* <img width="1316" height="745" alt="image" src="https://github.com/user-attachments/assets/195b5f8f-f53d-437c-931e-c05e36f215e9" />
+
 
 Purpose:
 
@@ -230,7 +234,8 @@ Insights:
 
 ## 6. Career Growth & Retention
 
-* <img width="1317" height="743" alt="image" src="https://github.com/user-attachments/assets/b37b7009-d8b9-4dd1-9006-359288d47390" />
+* <img width="1320" height="747" alt="image" src="https://github.com/user-attachments/assets/6502c94d-29e2-4a44-8104-0a83c2f8ee59" />
+
 
 Purpose:
 
@@ -253,7 +258,8 @@ Insights:
 
 ## 7. Insights & Recommendations
 
-* <img width="1314" height="740" alt="image" src="https://github.com/user-attachments/assets/7975716f-43d9-43cb-9b3f-f3ea0a0c33ef" />
+* <img width="1323" height="744" alt="image" src="https://github.com/user-attachments/assets/c1bddda2-b874-40c7-aa65-c469a491c133" />
+
 
 Purpose:
 
