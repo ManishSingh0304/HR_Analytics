@@ -141,7 +141,8 @@ Contents:
 
 ## 2. HR Overview
 
-* <img width="1316" height="741" alt="image" src="https://github.com/user-attachments/assets/bc5c7d63-8bde-4896-91d9-a8fe38118a7e" />
+* <img width="1322" height="749" alt="image" src="https://github.com/user-attachments/assets/4f300bc2-29dc-4321-9790-02b935d9de07" />
+
 
 Purpose:
 
